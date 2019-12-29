@@ -28,6 +28,11 @@ String ready="";
         }
             System.out.println(name);
 
+        int num =90;
+        String apple= "apple";
+
+
+
 
         }
 

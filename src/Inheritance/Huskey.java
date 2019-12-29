@@ -19,6 +19,13 @@ public void livingInCold(){
 
 }
 
+    public static void main(String[] args) {
+        Dog a = new Dog();
+        Huskey b = new Huskey();
+        a = b;
+        System.out.println(a.getClass());
+    }
 
+int num =5;
 
 }

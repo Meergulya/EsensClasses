@@ -111,14 +111,9 @@ for (int i=sentence.length()-1; i>=0; i--){
 System.out.println(reversed);
 
 
-
-
 String one = " java is fun";
 int index=0;
 String result ="";
-
-
-
 
 
 
