@@ -22,6 +22,12 @@ public class SampleIfElse {
                 System.out.println("Come again!");
 
             }
+              if ( 1 < 1000){
+
+                System.out.println("perfect");
+                System.out.println("Come again!");
+
+            }
 
 
 
